@@ -1,0 +1,31 @@
+body{
+        background-color: rgb(238, 238, 238);
+}
+.back-img{
+        background-image: url(../imgs/cetty.jpeg);
+        background-size: cover;
+        background-position: center;
+        height: 560px;
+        
+        
+}
+.img-title{
+        margin-top: 230px;
+        
+}
+.button{
+       margin: auto;
+       display: block;
+       width: 15%;
+}
+/* ////////////////////// */
+.home-content{
+        background-color: rgb(221, 221, 221);
+}
+.line{
+        width: 9%;
+        border: 1px solid;
+        color: black;
+        border-radius: 2px;
+        margin-top: -5px;
+}
