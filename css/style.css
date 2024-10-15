@@ -1,6 +1,12 @@
 body{
         background-color: rgb(238, 238, 238);
 }
+.name{
+        padding-left: 20px;
+}
+.navbar{
+        background-color:#424242;
+}
 .back-img{
         background-image: url(../imgs/cetty.jpeg);
         background-size: cover;
@@ -14,9 +20,9 @@ body{
         
 }
 .button{
-       margin: auto;
-       display: block;
-       width: 15%;
+        margin: auto;
+        display: block;
+        width: 15%;
 }
 /* ////////////////////// */
 .home-content{
@@ -24,8 +30,21 @@ body{
 }
 .line{
         width: 9%;
-        border: 1px solid;
-        color: black;
+        border: 1px solid black;
+        
         border-radius: 2px;
         margin-top: -5px;
+        margin-left: 45.5%;
+}
+/* ///////////start More page//////////////// */
+.white-cat{
+
+        height: 300px;
+        margin: auto;
+        display: block;
+}
+.gray-cat{
+        height: 300px;
+        margin: auto;
+        display: block;
 }
